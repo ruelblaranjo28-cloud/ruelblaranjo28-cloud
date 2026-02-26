@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Ruel Laranjo 👋
 
-<!--
-**ruelblaranjo28-cloud/ruelblaranjo28-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Junior Data Scientist | Python • R • Statistical Modeling
 
-Here are some ideas to get you started:
+Computer Science Engineering graduate with hands-on experience in data analysis, regression modeling, and statistical inference. I build practical projects using Python and R to extract insights and support data-driven decision-making.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔍 Core Skills
+
+- Exploratory Data Analysis (EDA)
+- Data Cleaning & Preprocessing
+- Regression Modeling (Simple & Multiple)
+- Statistical Inference
+- Data Visualization
+- Python Programming
+- R Programming
+- Git & GitHub Workflow
+
+---
+
+## 📊 Featured Projects
+
+🔹 IBM Data Science Tools Project  
+Applied data analysis and visualization using Python in Jupyter Notebook.
+
+🔹 Regression Models in R  
+Built simple and multiple linear regression models using real datasets from Johns Hopkins Data Science Specialization.
+
+---
+
+## 🚀 Currently Learning
+
+- Machine Learning
+- Advanced Statistical Modeling
+- Business Data Science Applications
+
+---
+
+📫 Actively seeking Junior Data Scientist or Data Science Intern opportunities.
