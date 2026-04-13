@@ -2,7 +2,7 @@
 
 ## Junior Data Scientist | Python • R • Statistical Modeling
 
-Computer Science Engineering graduate with hands-on experience in data analysis, regression modeling, and statistical inference. I build practical projects using Python and R to extract insights and support data-driven decision-making.
+Computer Systems Engineering graduate with hands-on experience in data analysis, regression modeling, and statistical inference. I build practical projects using Python and R to extract insights and support data-driven decision-making.
 
 ---
 
