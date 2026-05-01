@@ -2,7 +2,7 @@
 
 ## Junior Data Scientist | Python • R • Statistical Modeling
 
-Computer Systems Engineering graduate with hands-on experience in data analysis and machine learning. Skilled in Python and R, with projects focused on extracting insights and supporting data-driven decisions.
+Computer Systems Engineering graduate with hands-on experience in Data Analysis and Machine Learning. Skilled in Python and R, with projects focused on extracting insights and supporting data-driven decisions.
 
 ---
 
