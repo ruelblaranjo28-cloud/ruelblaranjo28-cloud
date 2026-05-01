@@ -22,13 +22,27 @@ Computer Systems Engineering graduate with hands-on experience in data analysis 
 
 ## 📊 Featured Projects
 
-### 🔹 IBM Data Science Tools Project
-- Performed data analysis and visualization using Python (Pandas, Matplotlib) in Jupyter Notebook
-- Extracted meaningful insights from real-world datasets
+### 🔹 House Price Prediction (Machine Learning)
+- Built an end-to-end machine learning model using Linear Regression and Random Forest
+- Performed data cleaning, feature engineering, and model evaluation (RMSE, R²)
+- Identified key factors influencing house prices
 
-### 🔹 Regression Models in R
-- Built simple and multiple linear regression models using real datasets
-- Applied statistical techniques to analyze relationships between variables
+### 🔹 Automobile Sales Dashboard (Plotly & Dash)
+- Developed an interactive dashboard to analyze automobile sales data
+- Performed EDA and visualized trends using Plotly and Dash
+
+### 🔹 Stock & Revenue Analysis (Tesla vs GameStop)
+- Collected data using APIs and web scraping
+- Analyzed and visualized stock prices and revenue trends
+
+### 🔹 Australia Weather Data Analysis
+- Performed data cleaning and exploratory data analysis on weather dataset
+- Identified patterns in rainfall, temperature, and weather conditions
+- Created visualizations to support insights and trend analysis
+
+### 🔹 Statistical Inference Analysis (R)
+- Conducted hypothesis testing and statistical analysis on real datasets
+- Visualized distributions and interpreted results
 
 ---
 
